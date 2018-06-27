@@ -144,7 +144,7 @@
         }
         else
         {
-            result = [NSString stringWithFormat:@"%@你个蛋",content];
+            result = [NSString stringWithFormat:@"%@好吧",content];
         }
     }
     return result;
